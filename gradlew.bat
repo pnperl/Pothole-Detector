@@ -1,1 +1,1 @@
-echo This is a stub gradlew.bat
+echo gradlew stub
